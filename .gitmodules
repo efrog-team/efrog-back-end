@@ -1,0 +1,11 @@
+[submodule "Checker"]
+	path = Checker
+	url = https://github.com/efrog-team/efrog-checker
+
+[submodule "Connector"]
+	path = Connector
+	url = https://github.com/efrog-team/efrog-connector
+
+[submodule "Containers"]
+	path = Containers
+	url = https://github.com/efrog-team/efrog-containers
